@@ -2,14 +2,14 @@
 
 ## About Me
 
-I am a passionate Web Design based in Phnom Penh. I enjoy working with Angular and React, and I am always eager to learn and explore new things.
+I am a passionate Web Design based in Phnom Penh. I enjoy working with Angular and NextJS, and I am always eager to learn and explore new things.
 
 ## Technologies I Love
 
-- Frontend: React, TypeScript , Angular. 
-- Backend: ASP.NET
-- Database: MSQL
-- Other Technologies: Python 
+- Frontend: React, TypeScript , Angular and NextJS
+- Backend: Laravel PHP , NodeJS Express.
+- Database: MSQL , MongoDB 
+- Other Technologies: Apex and Saleforce LWC
 
 
 ## Let's Collaborate!
